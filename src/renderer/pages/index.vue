@@ -6,7 +6,7 @@
     .search-form
       font-awesome-icon.search-icon.ok(v-if="validUrl(url)" @click="handleClickCreateWindow(url)" icon="flushed")
       font-awesome-icon.search-icon(v-else icon="laugh")
-      input.text-input(type="text" v-model.trim="url" placeholder="e.g. 'https://portan.com'")
+      input.text-input(type="text" v-model.trim="url" placeholder="e.g. 'https://isy.github.io/portan'")
   .history-view
     h2.title-history history
     app-history(:histories="histories" @createWindowHandler="handleClickCreateWindow")

@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/isy/portan.svg?branch=master)](https://travis-ci.org/isy/portan)
+
 <div align="center">
   <img alt="portan" src=".github/images/logo.svg" width="800px">
 </div>
