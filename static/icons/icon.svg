@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>favicon copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="favicon-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M15,25.9521877 C23.8380439,26.540181 29.5012218,21.6367195 27.6490618,15 C25.7969018,8.36328046 20.1337239,3.45981903 15,4.04781235 C9.86627605,4.63580567 4.20309819,9.5392671 2.35093822,15 C0.498778247,20.4607329 6.16195611,25.3641943 15,25.9521877 Z" id="Oval" stroke="#3B3939" stroke-width="2" fill="#3B3939" fill-rule="nonzero"></path>
+        <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="9" cy="13" r="4"></circle>
+        <circle id="Oval" fill="#3C3A3A" fill-rule="nonzero" cx="6.5" cy="12.5" r="1.5"></circle>
+    </g>
+</svg>

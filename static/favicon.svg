@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>favicon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="favicon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M11.5,25.969574 C17.278721,26.3437515 20.9815681,23.223367 19.7705404,19 C18.5595127,14.776633 14.8566657,11.6562485 11.5,12.030426 C8.14333434,12.4046036 4.44048728,15.5249882 3.2294596,19 C2.01843193,22.4750118 5.72127899,25.5953964 11.5,25.969574 Z" id="Oval" stroke="#3B3939" stroke-width="2" fill="#3B3939" fill-rule="nonzero"></path>
+        <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="14.5" cy="16.5" r="2.5"></circle>
+        <circle id="Oval" fill="#3C3A3A" fill-rule="nonzero" cx="15" cy="16" r="2"></circle>
+        <text id="?" fill="#3B3939" transform="translate(20.620835, 10.620835) rotate(11.000000) translate(-20.620835, -10.620835) " font-family="YuKyo_Yoko-Bold, YuKyokasho Yoko" font-size="13" font-weight="bold">
+            <tspan x="16.8378352" y="15.1208352">?</tspan>
+        </text>
+    </g>
+</svg>
